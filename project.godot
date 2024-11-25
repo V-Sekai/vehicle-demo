@@ -13,7 +13,7 @@ config_version=5
 config/name="Vehicle Demo"
 config/description="Godot car racing game demo"
 run/main_scene="res://scenes/startup/Startup.tscn"
-config/features=PackedStringArray("4.3")
+config/features=PackedStringArray("4.4")
 config/icon="res://icon.png"
 
 [autoload]

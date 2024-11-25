@@ -1,6 +1,6 @@
 extends Camera3D
 
-@export (NodePath) var follow_this_path = null
+@export_node_path var follow_this_path: NodePath
 @export var target_distance = 3.0
 @export var target_height = 2.0
 

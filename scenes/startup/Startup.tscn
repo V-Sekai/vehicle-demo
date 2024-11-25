@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://dusrinuj5grev" path="res://assets/misc-textures/startup-background.png" id="1"]
 [ext_resource type="Texture2D" uid="uid://bv3mgkqnf8s30" path="res://assets/misc-textures/vr.png" id="2"]
 [ext_resource type="Texture2D" uid="uid://ieq5q2j7e0wg" path="res://assets/misc-textures/desktop.png" id="3"]
-[ext_resource type="Script" path="res://scenes/startup/Startup.gd" id="4"]
+[ext_resource type="Script" uid="uid://bcg7ilx0a2rky" path="res://scenes/startup/Startup.gd" id="4"]
 [ext_resource type="FontFile" path="res://assets/fonts/pt_sans_24pt.tres" id="5"]
 
 [node name="Startup" type="Node2D"]
