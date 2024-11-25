@@ -2,7 +2,7 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://drfy0l1cdh7ms"
+uid="uid://dx4yjm1e55158"
 path.s3tc="res://.godot/imported/Material03_normal.png-14a3e3e4916f3675b6647f33e50b2668.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
@@ -24,8 +24,8 @@ compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=0
-roughness/src_normal=""
+roughness/mode=1
+roughness/src_normal="res://sketchfab/fir_tree/textures/Material03_normal.png"
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/normal_map_invert_y=false
